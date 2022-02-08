@@ -28,3 +28,13 @@ lst = [i for i in range(5)]
 
 while lst: # if list is not empty
     print(lst.pop(-1))
+
+
+print("\n")
+def test():
+    a = 0
+    if a > 1 :
+        return
+    print(a) 
+
+test()
