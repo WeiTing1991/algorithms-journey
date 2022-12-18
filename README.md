@@ -1,4 +1,4 @@
-# Algorithm
+# Data Structures and Algorithms
 Algorithm and Data Structures 
 
-This repository present the python  code implementation of data strucutes and algorithims.
+This repository present implementation of data strucutes and algorithms in python and C++.
