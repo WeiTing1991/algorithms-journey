@@ -1,4 +1,5 @@
-# Data Structures and Algorithms
-Algorithm and Data Structures 
+# my algorithms learning journey
 
-This repository present implementation of data strucutes and algorithms in python and C++.
+Algorithm and Data Structures
+
+This repository is my personal not for implementation of data structures and algorithms.
