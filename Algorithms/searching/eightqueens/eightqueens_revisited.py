@@ -10,8 +10,6 @@ class PartialEightQueens:
         self.final_values = [-1] * self.n
 
 
-
-
 if __name__ == "__main__":
 
     partial_state = PartialEightQueens()

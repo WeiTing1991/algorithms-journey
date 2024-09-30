@@ -59,5 +59,5 @@ start = time.process_time()
 solve_sudoku(board)
 end = time.process_time()
 print(board)
-
+print ("This sudoku took {} seconds to solve".format(end - start))
 
