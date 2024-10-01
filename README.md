@@ -1,24 +1,27 @@
 # My algorithms and data structures journey
 
 Algorithm and Data Structures
-This repository is my personal note for implementation of data structures and algorithms.
-
+This repository is my personal note for learning  of data structures and algorithms.
 
 
 ## Environment setup
 
-for python 
+Set up Python environment 
 
 ```bash
-
 python -m venv env
 source env/bin/activate
 
 which python3
-
 ```
 
+Set up Cpp environment 
+
+## Data Structures
+
+More information you can find [here](./Algorithms/readme.md)
 
 ## Algorithm
 
-## Data Structures
+More information you can find [here](./Algorithms/readme.md)
+
